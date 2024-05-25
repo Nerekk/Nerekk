@@ -2,7 +2,7 @@
 
 3rd-year computer science student at Lodz University of Technology
 
-- 🌱 I’m currently learning **Java, Android, JS, Microservices.**
+- 🌱 I’m currently learning **Java, Android, React, Microservices.**
 
 <p align="left">
 </p>
